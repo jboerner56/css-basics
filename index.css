@@ -3,5 +3,9 @@ These are the styles for the whole document.
  */
 
 .main-title{
-    background: rgb(68, 0, 255);
+    background: rgba(255, 251, 0, 0.932);
+}
+.fancy-font, .navbar{
+    font-family: 'Roboto', sans-serif;
+    color: rgb(0, 139, 7);
 }
